@@ -1,5 +1,4 @@
 # TALKBOT
-A talkbot ANN created through machine learning
 MANDATORY PACKAGES
 
 ->pip upgraded packages
